@@ -100,6 +100,37 @@ docker rm my-nginx
 - Linux user creation and permissions
 
 ---
+## Screenshots
+
+### Docker Container Running
+
+![Docker PS](screenshots/image1.png)
+
+---
+
+### Docker Image Build
+
+![Docker Build](screenshots/image3.png)
+
+---
+
+### Custom Nginx Website
+
+![Website](screenshots/99.png)
+
+---
+
+### Docker Inspect Output
+
+![Docker Inspect](screenshots/image.png)
+
+---
+
+### Terminal Setup
+
+![Terminal](screenshots/image5.png)
+
+---
 
 ## Author
 
