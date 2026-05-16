@@ -116,7 +116,7 @@ docker rm my-nginx
 
 ### Custom Nginx Website
 
-![Website](screenshots/99.png)
+![Website](99.png)
 
 ---
 
